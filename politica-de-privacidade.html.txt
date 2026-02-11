@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Política de Privacidade - NenaColors</title>
+</head>
+<body style="font-family: Arial; padding: 40px; max-width: 900px; margin: auto;">
+
+<h1>Política de Privacidade</h1>
+
+<p>Última atualização: [DATA]</p>
+
+<p>O aplicativo <strong>NenaColors</strong> respeita sua privacidade e está comprometido com a proteção dos seus dados pessoais.</p>
+
+<h2>1. Informações Coletadas</h2>
+
+<p>O aplicativo pode coletar automaticamente as seguintes informações:</p>
+<ul>
+<li>Informações do dispositivo (modelo, sistema operacional)</li>
+<li>Identificadores de publicidade (para exibição de anúncios)</li>
+<li>Dados de uso do aplicativo</li>
+</ul>
+
+<p>O aplicativo utiliza a câmera apenas para realizar a análise de tom de pele. As imagens capturadas não são armazenadas em servidores externos.</p>
+
+<h2>2. Uso da Câmera</h2>
+<p>A câmera é utilizada exclusivamente para análise de imagem. Nenhuma foto é enviada para servidores externos ou compartilhada com terceiros.</p>
+
+<h2>3. Publicidade</h2>
+<p>O aplicativo utiliza serviços de publicidade fornecidos pelo Google AdMob. Esses serviços podem coletar dados anônimos para personalização de anúncios.</p>
+
+<h2>4. Assinatura Premium</h2>
+<p>Pagamentos e assinaturas são processados de forma segura pela Google Play Store. O aplicativo não armazena informações de pagamento.</p>
+
+<h2>5. Compartilhamento de Dados</h2>
+<p>O aplicativo não vende, aluga ou compartilha dados pessoais com terceiros.</p>
+
+<h2>6. Segurança</h2>
+<p>Adotamos medidas técnicas adequadas para proteger seus dados.</p>
+
+<h2>7. Direitos do Usuário</h2>
+<p>Você pode solicitar a exclusão de dados entrando em contato pelo e-mail abaixo.</p>
+
+<h2>8. Contato</h2>
+<p>Para dúvidas relacionadas à privacidade:</p>
+<p><strong>Email:</strong> nenacolorsbase@gmail.com</p>
+
+</body>
+</html>
