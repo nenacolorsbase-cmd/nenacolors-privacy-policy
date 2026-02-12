@@ -8,7 +8,7 @@
 
 <h1>Política de Privacidade</h1>
 
-<p>Última atualização: [DATA]</p>
+<p>Última atualização: [12/02/2026]</p>
 
 <p>O aplicativo <strong>NenaColors</strong> respeita sua privacidade e está comprometido com a proteção dos seus dados pessoais.</p>
 
